@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/hemanuela/fylo-dark-theme-landing-page-master/blob/main/design/myscreenshot.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/hemanuela/fylo-dark-theme-landing-page-master)
+- Live Site URL: [->](https://hemanuela.github.io/fylo-dark-theme-landing-page-master/)
 
 ## My process
 
@@ -60,3 +60,4 @@ I put into practice some things that I have been learning and training. I could 
 - Frontend Mentor - [@hemanuela](https://www.frontendmentor.io/profile/hemanuela)
 
 **I wanna play a game!** 🚀
+
