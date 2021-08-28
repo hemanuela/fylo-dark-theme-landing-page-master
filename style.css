@@ -289,8 +289,9 @@ container {
   border-radius: 2rem;
 }
 
-input::placeholder {
-  padding: 3rem;
+label {
+  position: relative;
+  left: -25rem;
   color: hsl(175, 8%, 72%);
   font-family:  'Open Sans';
 }
@@ -348,7 +349,7 @@ footer {
 
 .footer-column-2 {
   margin-bottom: 2rem;
-  margin-left: 2.5rem;
+  margin-left: 2rem;
 }
 
 footer a {
@@ -423,6 +424,16 @@ footer a:active {
     padding: 1.5rem 0;
     border-radius: 10px;
  }
+
+ 
+  label {
+    position: relative;
+    left: -4rem;
+    top: -2rem;
+    color: hsl(175, 8%, 72%);
+    font-family:  'Open Sans';
+  }
+
 
  .footer-logo {
   margin-left: 1rem;
@@ -552,6 +563,14 @@ footer a:active {
   
   .subscribe button {
     width: 18rem ;
+  }
+
+  label {
+    position: relative;
+    left: -2rem;
+    top: -2rem;
+    color: hsl(175, 8%, 72%);
+    font-family:  'Open Sans';
   }
 
   footer {

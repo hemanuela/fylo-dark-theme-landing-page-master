@@ -180,10 +180,11 @@
 
         <div class="subscribe">
           <form class="subscribe-input">
-            <input type="email" placeholder="email@example.com">
+            <input type="email" name="email@example.com">
+            <label for="email">example@mail.com</label>
           </form>
 
-          <button> Get Started For Free </button>
+          <button type="submit"> Get Started For Free </button>
         </div>
       </section>
     </main>
@@ -213,11 +214,12 @@
           <div class="footer-column-2" >
             <div>
               <img src="images/icon-phone.svg" alt=" " aria-hidden="true">
-              <span>+1-543-123-4567</span>
+              <a href="tel:+1-543-123-4567">+1-543-123-4567</a>
             </div>
             <br>
-            <img src="images/icon-email.svg" alt=" " aria-hidden="true">
-            <span>example@fylo.com</span>
+              <img src="images/icon-email.svg" alt=" " aria-hidden="true">
+              <a href="mailto:example@mail.com">example@fylo.com</a>
+              <div class="requirements">Please enter a valid email address</div>
           </div>
 
           <div class="footer-column-3" >
